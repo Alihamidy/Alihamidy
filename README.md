@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alihamidy
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning UI Designing.
-- 💞️ I love Webdesigning.
+- 💞️ I love Web Designing.
 - 📫 How to reach me www.ali-hamidy.fr
 
 <!---
